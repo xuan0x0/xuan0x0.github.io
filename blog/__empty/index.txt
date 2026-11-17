@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+a:I[97367,["$2"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:"ViewportBoundary"
+e:I[97367,["$2"],"$d"]
+10:"MetadataBoundary"
+11:I[97367,["$2"],"$10"]
+13:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/0ktyfh7lrmwaa.css","style"]
+:HL["/_next/static/chunks/3v0h09x9phu8s.css","style"]
+:HC["/",""]
+7:X
+8:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L9",null,["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":false,"v":null}}]]
+6:[["children",{"s":{"n":"slug","t":"d","k":"__empty","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$7"},"c":"$Q8"}]]
+5:[["children",{"s":"blog","h":131584,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3v0h09x9phu8s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Q6"}]]
+0:{"P":null,"c":["","blog","__empty",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ktyfh7lrmwaa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main-content","className":"blog-main","children":[["$","span",null,{"className":"eyebrow","children":"404 / A WRONG TURN"}],["$","div",null,{"className":"blog-heading","children":[["$","h1",null,{"children":["Nothing here.",["$","br",null,{}],"Not yet, anyway."]}],["$","a",null,{"className":"text-link","href":"/","children":"← Back to home"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],"p":false,"v":null},"c":"$Q5"},"h":{"r":["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":"$L12"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ktyfh7lrmwaa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"VxyegVWrxTeJ-zpYAh-Vv"}
+7:C
+9:E{"digest":"NEXT_HTTP_ERROR_FALLBACK;404"}
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[27201,["$2"],"IconMark"]
+c:null
+12:[["$","title","0",{"children":"Note not found — Xuan Pan"}],["$","meta","1",{"name":"description","content":"Software developer and University of Waterloo mathematics student. Selected work in full-stack applications, AI, data, and research."}],["$","meta","2",{"property":"og:title","content":"Xuan Pan"}],["$","meta","3",{"property":"og:description","content":"Thinking. Building. Becoming."}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Xuan Pan"}],["$","meta","7",{"name":"twitter:description","content":"Thinking. Building. Becoming."}],["$","link","8",{"rel":"icon","href":"/icon.svg?icon.2trtn0j14ti-5.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","9",{}]]
